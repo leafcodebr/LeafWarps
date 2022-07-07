@@ -1,0 +1,25 @@
+nome: spawn
+comando: spawn
+permissao: ''
+local: ''
+icon:
+  nome: '&aSpawn'
+  item: '339:0'
+  lore:
+    - '&eClique para ir ao Spawn'
+ao-entrar:
+  Titulo:
+    enable: true
+    titulo: '&e&lSPAWN'
+    subtitulo: '&7Você foi redirecionado(a)!'
+  ActionBar:
+    enable: true
+    mensagem: '&aRedirecionado(a) com sucesso!'
+  Mensagem:
+    - '&aVocê foi redirecionado!'
+  Console:
+    - 'say {player} foi para o spawn! (Altere ou remova em spawn.yml!)'
+  Som: LEVEL_UP
+opcoes:
+  Nao-poder-mover: 5
+  Apenas-inventario-vazio: false
