@@ -1,8 +1,5 @@
-# LeafTags
-Um sistema completo de prefixos para servidores de Minecraft, com várias opções configuráveis. 
-
-## Tutorial
-Este plugin possui um [tutorial oficial](https://www.youtube.com/channel/UCnNnNXBPDuuDZxnUgQv0gqA) em nosso canal no YouTube!
+# LeafWarps
+Um sistema completo de warps para servidores de Minecraft, com várias opções configuráveis.
 
 ## Comandos
 
