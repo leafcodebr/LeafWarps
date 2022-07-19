@@ -1,3 +1,8 @@
 Opcoes:
   # Mostrar-timer: Mostrará o tempo até o player ser redirecionado na ActionBar
   Mostrar-timer: true
+  # Mostrar-warps: Mostrará as warps no chat sempre que utilizar /warp
+  Mostrar-warps: true
+  # Usar-menu: Fará que use um menu para selecionar uma warp.
+  # Este menu é apenas uma pequena opção, recomendamos que utilize um plugin de menus.
+  Usar-menu: true
